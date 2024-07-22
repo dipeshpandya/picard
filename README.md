@@ -200,7 +200,7 @@ With more time, we could expand this analysis to explore ways to expand the data
 
 ## Resources Consulted and Credits
 The following credit must be given for assistance with our project:
-Jeff Paine for his abbreviation_to_name [code](https://gist.github.com/JeffPaine/3083347)
+- Jeff Paine for his abbreviation_to_name [code](https://gist.github.com/JeffPaine/3083347)
 - The curriculum team and Bootcamp Spot for providing us access to the original ufoSightings.csv dataset, which we explored in Module 5.
 - Zohaib Khawaja, for helping us find a solution to convert longitude to a numeric so that we could build our geo-visualizaiton.
 

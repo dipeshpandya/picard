@@ -2,7 +2,7 @@
 # Project 1
 
 
-## Background
+## Our Team
 Team Picard is composed of Dipesh Pandya, Alexis Wukich, and Erica Yanoshak.
 
 Team Roles:

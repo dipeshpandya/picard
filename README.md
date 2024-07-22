@@ -49,7 +49,7 @@ The following libraries and dependencies are required to run the project success
 
 
 ## Repository Files and Starter Code
-[ufoSightings.csv](https://github.com/dipeshpandya/picard/blob/d21a0c397563ee4d811786ab37be862666e11535/resources/ufoSightings.csv) a copy is also available in the “Resources” folder in the Repository
+ufoSightings.csv: our original dataset which is available in the “Resources” folder in the Repository
 
 
 [Copy_of_Team_Picard.ipynb](https://github.com/dipeshpandya/picard/blob/a62e802fdafb7638341132f531bcbd5960ce89b3/Copy_of_Team_Picard.ipynb): completed notebook with data analysis and visualizations
